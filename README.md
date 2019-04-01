@@ -1,2 +1,2 @@
 # dazlena.github.io
-Khan Academy projects
+I am going to upload the projects I have worked on at Khan Academy.
